@@ -19,7 +19,7 @@ I am 3rd year student at SRM INSTITUTE OF SCIENCE AND TECHNOLOGY pursuing my Bac
   <a href="https://www.skype.com/en/" rel="nofollow">
   <img src = "https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white">
   </a>
-  <a href="https://www.skype.com/en/" rel="nofollow">
+  <a href="https://www.instagram.com/" rel="nofollow">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.hackerrank.com/aayush_agrawal91?hr_r=1" rel="nofollow">
