@@ -53,7 +53,7 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
   </p>
  
  
-   ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=Ayush979&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc?theme=tokyonight)
+   ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=Ayush979&show_icons=true&theme=tokyonight&count_private=true)
   <h6>
   </h6>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush979&theme=tokyonight&hide_langs_below=4&layout=compact'/>  
