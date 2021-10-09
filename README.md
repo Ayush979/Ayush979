@@ -59,11 +59,11 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush979&theme=tokyonight&hide_langs_below=4&layout=compact'/>  
   <br>
   
-<img length="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush979&theme=tokyonight" alt="subratkumar1804" /> 
+<img length="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush979&theme=tokyonight" alt="Ayush979" /> 
 
 
 
-[![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush979&theme=react-dark)](https://github.com/subratkumar1804/github-readme-activity-graph)
+[![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush979&theme=react-dark)](https://github.com/Ayush979/github-readme-activity-graph)
 
  
   
