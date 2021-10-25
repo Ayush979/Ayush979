@@ -67,12 +67,4 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
 [![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush979&theme=react-dark)](https://github.com/Ayush979/github-readme-activity-graph)
 
  
-  
- 
-
-  
-  <img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;">
-
-
-
 
