@@ -51,9 +51,6 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
   <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </p>
- 
-
-
    ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=Ayush979&show_icons=true&theme=tokyonight&count_private=true)
   <h5>
   </h5>
@@ -67,4 +64,12 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
 [![Ayush's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ayush979&theme=react-dark)](https://github.com/Ayush979/github-readme-activity-graph)
 
  
+
+  
+ 
+
+  
+  <img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;">
+
+
 
